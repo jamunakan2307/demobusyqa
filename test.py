@@ -1,1 +1,1 @@
-This is test
+GIT merge This is test
